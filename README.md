@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Structures And Algorithms,Web Development and App Development.
 - 🌱 I’m currently learning Flutter. 
 - 💞️ I’m looking to collaborate on various platforms that offer me good package. 
-- 📫 How to reach me - Email-aryansingh04x@gmail.com
+- 📫 How to reach me -aryansingh04x@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
